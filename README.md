@@ -1,3 +1,5 @@
+Hosting the [Hope in Source](https://hopeinsource.com) podcast
+
 # guy
 ```diff
 +                                  . . ..  ,    . . ,  .  .                                                           
@@ -42,5 +44,3 @@
 +  (@@@@@@&&&&############&#%%&#&@&&&((/%#%#######%########%%%%%%%((#*@@@@@@@@@@@@@@&@@&&&&&&@@&&@&@@@@@&@&&@@@@@@##(,,
 +*@@@&@@@@@@@@############(#(#%%%%%%&&%%%#(#%#######################&(@@@@@@@@@@&&@@@&&@&&&&@@&@&&&&@@@@&@@@@&&@@@@@#/@*
 ```
-
-I also host the podcasts [Hope in Source](https://hopeinsource.com), [Maintainers Anonymous](https://maintainersanonymous.com), and [The Babel Podcast](https://podcast.babeljs.io)
